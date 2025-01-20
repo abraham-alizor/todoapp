@@ -26,7 +26,7 @@ A simple Todo application built with Flutter.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-username/todo_app.git
+   git clone https://github.com/abraham-alizor/todoapp.git
    cd todo_app
    ```
 
