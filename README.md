@@ -11,7 +11,7 @@ A simple Todo application built with Flutter.
 
 ## Screenshot
 
-![Screenshot](lib/assets/screenshot.png)
+<img src="lib/assets/screenshot.png" alt="Screenshot" height="300">
 
 ## Getting Started
 
